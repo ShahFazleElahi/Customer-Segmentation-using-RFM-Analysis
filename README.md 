@@ -1,0 +1,21 @@
+# Customer Segmentation using RFM Analysis
+
+## Overview
+This project performs customer segmentation using RFM (Recency, Frequency, Monetary) analysis on transaction data.
+
+## Project Structure
+- `data/`: Contains the customer data CSV file.
+- `notebooks/`: Contains Jupyter notebooks for analysis.
+- `src/`: Contains the source code for data processing, RFM calculations, segmentation, and visualization.
+- `reports/`: Contains the final analysis report.
+- `tests/`: Contains unit tests for the functions.
+- `requirements.txt`: Lists the project dependencies.
+
+## Installation
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Create a virtual environment and activate it.
+4. Install the required packages:
+
+```bash
+pip install -r requirements.txt
